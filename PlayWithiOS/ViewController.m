@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    // Merge first NSLOG commit 4cee8ccf43a34e6f0c3060a04dfd282e34655960
+    // Log commit
+    // Second comment
 }
 
 - (void)didReceiveMemoryWarning {
